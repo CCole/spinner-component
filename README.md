@@ -1,5 +1,6 @@
 # Reusable Spinner Component Project
   Goal: Recreate the progress spinner as a reusable component using the supplied mockup file.
+  You can view the [deployed app here](https://spinner-component.vercel.app/).
 
 
 ## Component Hierarchy 
